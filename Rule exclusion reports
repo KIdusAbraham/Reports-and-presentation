@@ -1,0 +1,16 @@
+CIS Rule Exclusion request: 
+
+1.	Rule 3.3: Ensure ‘Orphan users’ are dropped from SQL server databases
+    Definition: Orphan users are users that do not have a valid login.  
+
+
+2.	Rule 2.12: Ensure ‘Hide Instance’ option is set to ‘Yes’ for non-clustered SQL Server production environments
+    
+
+3.	Rule 2.2: Ensure ‘CLR Enabled’ Server Configuration Option is set to ‘0’
+    
+
+
+4.	Rule 8.1: Ensure ‘SQL Server Browser’ is disabled as per default value 
+    
+Named instance vs default 
